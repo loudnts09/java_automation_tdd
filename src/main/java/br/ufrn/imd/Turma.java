@@ -9,7 +9,7 @@ public class Turma {
 	private final Disciplina disciplina;
 
 	private final List<Matricula> matriculas;
-
+	
 	public Turma(Docente docente, Disciplina disciplina) {
 		this.docente = docente;
 		this.disciplina = disciplina;
